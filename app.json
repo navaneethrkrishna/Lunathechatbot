@@ -12,8 +12,8 @@
   ],
   "stack": "heroku-20",
   "env": {
-    "bot_token": { 5066591388:AAEmnmIIlDNY-tEHhCwqt8WN-03iIEuXDOI
-           "description": "Your Bot's Api Token ,Get it from @BotFather",
+    "bot_token": {
+           "description": "Your Bot's Api Token ,Get it from @BotFather",5066591388:AAEmnmIIlDNY-tEHhCwqt8WN-03iIEuXDOI
            "required": true
     },
     "ARQ_API_KEY": {
